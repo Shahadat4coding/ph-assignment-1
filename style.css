@@ -588,7 +588,7 @@ input[type="submit"] {
 .footer-section {
     background: #070211;
     height: 609px;
-    margin: 120px;
+    margin-top: 120px;
     color: #FFF;
 }
 
@@ -623,10 +623,9 @@ input[type="submit"] {
 }
 
 .f-right-segment {
-    margin-left: 480px;
+    margin-left: 551px;
     display: flex;
-  flex-direction: column;
-
+    flex-direction: column;
 }
 .f-right-segment a{
     display: block;
