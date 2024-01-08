@@ -115,7 +115,7 @@ font-family: 'Merriweather', serif; */
     height: 600px;
     background-image: url(images/Vectorrr.png);
     background-size: cover;
-    display:block;
+    display: block;
     overflow: hidden;
     border-radius: 16px;
 }
@@ -129,7 +129,7 @@ font-family: 'Merriweather', serif; */
     justify-content: space-between;
     padding: 0px 151px 67px 110px;
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
-    
+
 }
 
 .photo-welcome .content-overlay .left-content {
@@ -224,11 +224,12 @@ font-family: 'Merriweather', serif; */
 
 /* offer comming soon ============================================= */
 .offer-comming-soon {
-    /* padding-top: 110px; $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
+
     border-radius: 16px;
     width: 1320px;
     margin: auto;
     margin-bottom: 120px;
+    height: 733px;
 }
 
 .section-wrapper-ocs {
@@ -547,7 +548,7 @@ font-family: 'Merriweather', serif; */
     padding-left: 10%;
 }
 
- input[type="email"]:focus {
+input[type="email"]:focus {
     text-align: left;
     border: none !important;
 
@@ -601,9 +602,10 @@ input[type="submit"] {
 
 .footer-section .footer-content {
     display: flex;
-    
+
 }
-.footer-line-bottom{
+
+.footer-line-bottom {
     border-bottom: 1px solid #2c2b2b;
     padding-bottom: 58px;
 }
@@ -640,7 +642,8 @@ input[type="submit"] {
     display: flex;
     flex-direction: column;
 }
-.f-right-segment a{
+
+.f-right-segment a {
     display: block;
     color: #ffffff;
     font-family: Inter;
@@ -648,7 +651,7 @@ input[type="submit"] {
     font-weight: 500;
     line-height: 40px;
     text-decoration: none;
-    
+
 }
 
 
@@ -658,8 +661,9 @@ input[type="submit"] {
     display: flex;
     justify-content: center;
 }
-.social-link img{
-    margin:0 12px;
+
+.social-link img {
+    margin: 0 12px;
     cursor: pointer;
 }
 
@@ -673,16 +677,17 @@ input[type="submit"] {
 
 
 
-.bottom-segment{
+.bottom-segment {
     overflow: hidden;
     display: flex;
     justify-content: space-between;
 }
-.bottom-segment p{
+
+.bottom-segment p {
     color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
