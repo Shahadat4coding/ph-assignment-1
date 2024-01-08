@@ -597,9 +597,14 @@ input[type="submit"] {
     margin-top: 120px;
     color: #FFF;
 }
+.section-header {
+    border-bottom: 5px solid #d11616 !important;
+}
 
 .footer-section .footer-content {
     display: flex;
+    border-bottom: 1px solid #2c2b2b;
+    padding-bottom: 58px;
 }
 
 .footer-section .footer-wrapper {
@@ -646,8 +651,8 @@ input[type="submit"] {
 
 
 
-.social-link{
-    margin:98px 0px;
+.social-link {
+    margin: 30px 0px 98px 0px;
     display: flex;
     justify-content: center;
 }
