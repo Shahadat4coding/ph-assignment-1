@@ -117,6 +117,7 @@ font-family: 'Merriweather', serif; */
     background-size: cover;
     display:block;
     overflow: hidden;
+    border-radius: 16px;
 }
 
 .photo-welcome .content-overlay {
@@ -515,9 +516,7 @@ font-family: 'Merriweather', serif; */
     line-height: 32px;
 }
 
-.newslater-section .newslater-wrapper .form-area {
-    /* margin-bottom: 80px; */
-}
+
 
 .newslater-section .newslater-wrapper form {
     width: 648px;
@@ -651,6 +650,7 @@ input[type="submit"] {
 }
 .social-link img{
     margin:0 12px;
+    cursor: pointer;
 }
 
 
