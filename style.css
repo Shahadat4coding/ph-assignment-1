@@ -273,12 +273,13 @@ font-family: 'Merriweather', serif; */
     width: 30%;
 }
 
+
 .middle-single-segment .pic-wrapper img {
     border: 15px solid #F00;
     border-radius: 50%;
-    padding: 20px;
-    width: 463px;
-    height: 463px;
+    padding: 39px;
+    width: 435px;
+    height: 435px;
 }
 
 .right-single-segment {
