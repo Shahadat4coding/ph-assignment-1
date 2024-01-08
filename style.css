@@ -119,6 +119,9 @@ font-family: 'Merriweather', serif; */
     overflow: hidden;
     border-radius: 16px;
 }
+.right-content {
+    padding-bottom: 106px;
+}
 
 .photo-welcome .content-overlay {
     height: 600px;
@@ -186,6 +189,7 @@ font-family: 'Merriweather', serif; */
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     text-align: center;
 }
+
 
 .section-join-wrapper h3 {
 
@@ -545,9 +549,10 @@ font-family: 'Merriweather', serif; */
     padding-left: 10%;
 }
 
-.newslater-section .newslater-wrapper input[type="email"]:focus {
-    float: left;
-    border: none;
+ input[type="email"]:focus {
+    text-align: left;
+    border: none !important;
+
 }
 
 input[type="submit"] {
