@@ -115,16 +115,19 @@ font-family: 'Merriweather', serif; */
     height: 600px;
     background-image: url(images/Vectorrr.png);
     background-size: cover;
+    display:block;
+    overflow: hidden;
 }
 
 .photo-welcome .content-overlay {
+    height: 600px;
     border-radius: 17px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 77px 151px 67px 110px;
-    /* background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
-    overflow: hidden;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    
 }
 
 .photo-welcome .content-overlay .left-content {
@@ -218,7 +221,7 @@ font-family: 'Merriweather', serif; */
 
 /* offer comming soon ============================================= */
 .offer-comming-soon {
-    padding-top: 110px;
+    /* padding-top: 110px; $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
     border-radius: 16px;
     width: 1320px;
     margin: auto;
