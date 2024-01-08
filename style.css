@@ -119,9 +119,7 @@ font-family: 'Merriweather', serif; */
     overflow: hidden;
     border-radius: 16px;
 }
-.right-content {
-    padding-bottom: 106px;
-}
+
 
 .photo-welcome .content-overlay {
     height: 600px;
@@ -129,7 +127,7 @@ font-family: 'Merriweather', serif; */
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 77px 151px 67px 110px;
+    padding: 0px 151px 67px 110px;
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     
 }
